@@ -1,0 +1,3 @@
+Youtube Video: https://youtu.be/MZGZIrIyRTY
+Google Colab notebook: https://colab.research.google.com/drive/1K4FbDvytM0yxm_jqIkrV779hU8uPc8NL?usp=sharing
+Github: https://github.com/a104765/Project
